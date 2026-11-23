@@ -4,8 +4,8 @@
 		"info": "Технический сбой на стороне хостинга."
 	},
 	"rodina_pc": {
-		"status": false,
-		"info": "-"
+		"status": true,
+		"info": "test"
 	},
 	"arizona_mobile": {
 		"status": false,
@@ -13,6 +13,7 @@
 	}
 
 }
+
 
 
 
