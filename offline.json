@@ -1,11 +1,11 @@
 {
 	"arizona_pc": {
-		"status": false,
+		"status": true,
 		"info": "Технический сбой на стороне хостинга."
 	},
 	"rodina_pc": {
-		"status": true,
-		"info": "test"
+		"status": false,
+		"info": "-"
 	},
 	"arizona_mobile": {
 		"status": false,
@@ -13,6 +13,7 @@
 	}
 
 }
+
 
 
 
