@@ -1,6 +1,6 @@
 {
 	"arizona_pc": {
-		"status": true,
+		"status": false,
 		"info": "Технический сбой на стороне хостинга."
 	},
 	"rodina_pc": {
@@ -11,10 +11,4 @@
 		"status": false,
 		"info": "-"
 	}
-
 }
-
-
-
-
-
